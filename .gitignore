@@ -1,0 +1,37 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+dist/
+build/
+__pycache__/
+*.egg-info/
+
+# Compiled Python files
+*.pyc
+
+# Local development settings
+*.local/
+
+# Site folder
+_site/
